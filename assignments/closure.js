@@ -1,5 +1,18 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+const pb= 'Peanut Butter';
+function song(){
+  const jelly="Jelly";
+  alert(`It's ${pb} + ${jelly} time!`);
+}
+console.log(pb);
+
+//const lastName = 'Bob';
+//function greet() { 
+ // const firstName = 'Jim';
+  //alert(`The name's ${lastName}, ${firstName} ${lastName}`);
+//}
+//console.log(lastName);
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
